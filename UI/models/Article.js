@@ -11,4 +11,5 @@ Article.prototype.update = function(data){
     //do an AJAX request or save it in the local storage
     
 // Play with Git    
+//This code is added only on feature_update_article branch
 };
