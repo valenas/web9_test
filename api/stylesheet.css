@@ -1,0 +1,155 @@
+/* Navigation */
+/*.navbar {*/
+/*    width:100%;*/
+/*    height:60px;*/
+/*    background-color:#ccccff;*/
+/*}*/
+.blog-name {
+    font-family:Mistral, serif;
+    font-size:28px;
+    color:white;
+    margin-right:10px;
+    margin-top:11px;
+}
+/*.col-md-4,*/
+/*.col-md-8 {*/
+/*    background-color: tomato;*/
+/*    padding: 10px;*/
+/*}*/
+/*.col-md-4 {*/
+/*    font-family: Mistral;*/
+/*    color: white;*/
+/*    font-size:16px;*/
+/*}*/
+/* Right Menu */
+
+/*.right-menu {*/
+/*    float: right;*/
+/*    height: 209px;*/
+/*    width:16.66%;*/
+/*    padding: 10px;*/
+/*    margin: 10px;*/
+/*    background-color:#AFF797;*/
+/*}*/
+/* Left Menu */
+
+/*.menu-left {*/
+/*    height:100%;*/
+/*    float:left;*/
+/*    clear:both;*/
+/*    margin-top: 10px;*/
+/*    width: 180px;*/
+/*}*/
+/*.menu-left li:hover {*/
+/*    background-color:  #0099cc;*/
+/*}*/
+/*.menu-left ul {*/
+/*    list-style-type: none;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+/*.menu-left li {*/
+/*    padding: 8px;*/
+/*    margin-bottom: 7px;*/
+/*    background-color: #33b5e5;*/
+/*    color: #ffffff;*/
+/*    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);*/
+/*}*/
+/*.title-menu-left {*/
+/*    background-color: #33b5e5;*/
+/*    padding: 8px;*/
+/*}*/
+
+/* Footer */
+
+/*footer {*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    left: 0;*/
+/*    padding: 1rem;*/
+/*    background-color: #CCCD0B;*/
+/*    text-align: center;*/
+/*    margin: 50px 0px 0px;*/
+/*}*/
+
+/* Main Content */
+/*div {*/
+/*    display:inline-block;*/
+/*}*/
+/*.page-wrapper {*/
+/*    width:57%;*/
+/*    clear:both;*/
+/*    margin:0 auto -120px;*/
+/*    padding-left: 20px;*/
+/*    margin-left: 20px;*/
+/*}*/
+
+.pags {
+    list-style-type: none;
+    margin-top: 10px;
+    padding: 10px;
+}
+.link-title-paragraph {
+    display: inline;
+    padding:10px;
+}
+
+/*.img-description {*/
+/*    width:140px;*/
+/*    height:200px;*/
+/*}*/
+/*.description {*/
+/*    display:inline;*/
+/*    width: 45%;*/
+/*    font-family: "Source Sans Pro";*/
+/*    position: absolute;*/
+/*    margin: 10px;*/
+/*    text-align:justify;*/
+/*}*/
+/*adress {*/
+/*    font-family:cursive;*/
+/*    color:white;*/
+/*    font-size:12px;*/
+/*}*/
+/*.text-gold {*/
+/*   font-family: arial;*/
+/*   font-size: 23px;*/
+/*   background-color: #222B0E;*/
+/*   margin: 10px;*/
+/*} */
+/*.jumbo-2 {*/
+/*   font-weight: bold;*/
+/*}*/
+/*.text-tomato {*/
+/*    color:tomato;*/
+/*}*/
+/*p[target] {*/
+/*    color: blue;*/
+/*}*/
+
+.row:before,
+.row:after {
+    content: " ";
+    display: table;
+}
+.row:atfer {
+    clear:both;
+}
+/* The above code is just to fix the floats collaps*/
+.column {
+    float:left;
+    min-height:70px;
+    /*border-radius:10%;*/
+}
+.col-1 {
+    width:20%;
+    background-color: lightgray;
+}
+.col-2 {
+    width: 80%;
+    background-color: lightgray;
+    float: right;
+}
+.col-3 {
+    
+}
